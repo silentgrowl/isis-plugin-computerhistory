@@ -17,3 +17,7 @@ And then execute:
 ## Usage
 
 Trigger a posting of the current This Day in Computer History by typing ```!computerhistory``` or ```!tdih``` in chat.
+
+## Links
+
+* [isis-plugin-computerhistory on RubyGems](https://rubygems.org/gems/isis-plugin-computerhistory)
